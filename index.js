@@ -4,4 +4,4 @@ function destructivelyAppendKitten(name) {
   kittens.push(name)
 }
 
-// console.log(destructivelyAppendKitten("Ralph"))
+console.log(destructivelyAppendKitten("Ralph"))
