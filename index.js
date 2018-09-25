@@ -4,5 +4,6 @@ function destructivelyAppendKitten(name) {
   kittens.push(name)
 }
 
-console.log(destructivelyAppendKitten("Ralph"))
-console.log(kittens)
+function destructivelyPrependKitten(name) {
+  kittens.unshift(name)
+}
