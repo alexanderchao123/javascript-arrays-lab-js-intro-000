@@ -1,4 +1,4 @@
-function desctructivelyAPpendKitten(name) {
+function desctructivelyAppendKitten(name) {
   var kittens = ["Milo", "Otis", "Garfield"]
   kittens.push(name)
   return kittens
