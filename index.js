@@ -4,4 +4,4 @@ function destructivelyAppendKitten(name) {
   return kittens
 }
 
-console.log("Ralph")
+console.log(destructivelyAppendKitten("Ralph"))
